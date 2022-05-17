@@ -1,0 +1,47 @@
+{
+  "serverurl": "https://auto14.ssdevrd.com",
+  "gid": "wmt_ae",
+  "un": "wmt_ae_%MODEL%",
+  "pw": "wmt_ae_%MODEL%",
+  "deviceModelsMap": {
+    "G82": [
+      "G8232",
+      "G82320"
+    ],
+    "TC75": [
+      "TC75",
+      "TC750",
+      "TC75x"
+    ],
+    "TC51": [
+      "TC51"
+    ],
+    "TC77": [
+      "TC77"
+    ],
+    "EC50": [
+      "EC50"
+    ],
+    "TC72": [
+      "TC72"
+    ],
+    "PIXEL 2": [
+      "Pixel 2"
+    ],
+    "TC25": [
+      "TC25"
+    ],
+    "G981U1": [
+      "G981U1"
+    ],
+    "SM-G981U1": [
+      "SM-G981U1"
+    ],
+    "Pixel 2 XL": [
+      "Pixel 2 XL"
+    ]
+    "Samsung A12": [
+      "Samsung A12"
+    ]
+  }
+}
